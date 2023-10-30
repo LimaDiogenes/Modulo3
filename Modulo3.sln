@@ -5,6 +5,11 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo3", "Modulo3.csproj", "{ABC393BF-BE49-40DD-9754-9F564CA4C2AF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{133A7D7B-9D95-4BC2-9778-8602FBC029F4}"
+	ProjectSection(SolutionItems) = preProject
+		Leia-me.txt = Leia-me.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

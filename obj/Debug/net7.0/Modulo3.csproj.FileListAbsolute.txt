@@ -1,0 +1,14 @@
+F:\vsprojects\3modulo\Exercicio_abstracao\bin\Debug\net7.0\Modulo3.exe
+F:\vsprojects\3modulo\Exercicio_abstracao\bin\Debug\net7.0\Modulo3.deps.json
+F:\vsprojects\3modulo\Exercicio_abstracao\bin\Debug\net7.0\Modulo3.runtimeconfig.json
+F:\vsprojects\3modulo\Exercicio_abstracao\bin\Debug\net7.0\Modulo3.dll
+F:\vsprojects\3modulo\Exercicio_abstracao\bin\Debug\net7.0\Modulo3.pdb
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.GeneratedMSBuildEditorConfig.editorconfig
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.AssemblyInfoInputs.cache
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.AssemblyInfo.cs
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.csproj.CoreCompileInputs.cache
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.dll
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\refint\Modulo3.dll
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.pdb
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\Modulo3.genruntimeconfig.cache
+F:\vsprojects\3modulo\Exercicio_abstracao\obj\Debug\net7.0\ref\Modulo3.dll
